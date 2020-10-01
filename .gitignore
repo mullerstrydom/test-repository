@@ -1,0 +1,9 @@
+# IDEs
+.idea
+
+# Ignore Cache files
+__pycache__
+
+# Ignore coverage
+.coverage
+coverage.xml
