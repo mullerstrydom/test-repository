@@ -1,6 +1,6 @@
 import unittest
 
-from string_utils import StringUtils
+from test_repository.string_utils import StringUtils
 
 
 class TestStringUtils(unittest.TestCase):
