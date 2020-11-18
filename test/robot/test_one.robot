@@ -10,7 +10,7 @@ ${INPUT_NAME_FIELD}      id=com.bitbar.testdroid:id/editText1
 ${INPUT_SURNAME_FIELD}   id=com.bitbar.testdroid:id/editText1
 ${WEB_SERVER_HANDLE}     none
 
-${web_address}           http://localhost:4444/test1.html
+${web_address}           http://localhost:4444/webapp/test1.html
 ${browser}               Firefox
 ${user_name}             Test_username
 ${user_surname}          Test_usersurname
